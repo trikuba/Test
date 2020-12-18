@@ -4,4 +4,4 @@ Dens = Density_calc(GK, Method 2)
 Dens.to_csv
 ...
 Track_width = 10
-Curve_color = Green 
+Curve_color = Red 
