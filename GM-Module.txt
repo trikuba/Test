@@ -1,7 +1,7 @@
 ...
 DT = pd.read_csv('DT.csv') 
-Dens = Density_calc(GK, Method 2)
+Dens = Density_calc(GK, Method 3)
 Dens.to_csv
 ...
 Track_width = 10
-Curve_color = Green 
+Curve_color = Yellow 
